@@ -64,5 +64,5 @@ Qbond already exists on-chain. This proposal is an optimize proposal, not an ini
 
 ## Technical Implementation
 
-Technical implementation (core PR and reference code) will be added on **2026-06-08**.
+https://github.com/qubic/core/pull/914
 
